@@ -24,7 +24,11 @@ I used Django and Django Rest Framework and Djongo as a MongoDB Engine in this p
 
 \$ env\Scripts\activate
 
-6 - Install using pip
+6 - Install requirements using pip:
+
+\$ cd berghem_project_api
+
+\$ cd berghem_project
 
 \$ pip install -r requirements.txt
 
