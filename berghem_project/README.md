@@ -39,4 +39,4 @@ Ex: http://127.0.0.1:8000/api/profile/
 # Usage
 
 In the profile page you can create new Change requests and after reloading the page you will see the new Clients on the list.
-You can take the id number of the Client and add to the link path to access the upload and delete page.
+You can take the id number of the Client and add to the link path to access the update and delete page.
