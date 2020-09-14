@@ -1,0 +1,4 @@
+django==2.2
+djangorestframework==3.9.2
+virtualenv==20.0.21
+djongo==1.3
