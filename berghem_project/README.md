@@ -51,7 +51,7 @@ Ex: http://adrianoms.pythonanywhere.com/api/profile/1
 \$ python manage.py collectstatic
 \$ python manage.py runserver
 
-Clic on the link and add to the adress: '/api/profile/'
+Click on the link and add to the adress: '/api/profile/'
 
 Ex: http://127.0.0.1:8000/api/profile/
 
